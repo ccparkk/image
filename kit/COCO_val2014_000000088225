@@ -1,0 +1,13 @@
+segmentation {u'counts': [37124, 6, 417, 8, 411, 14, 409, 15, 408, 16, 408, 16, 403, 21, 402, 22, 401, 22, 402, 22, 402, 16, 1, 2, 405, 16, 408, 14, 410, 14, 411, 13, 411, 13, 414, 9, 416, 8, 419, 2, 226609], u'size': [424, 640]}
+num_keypoints 0
+license 2
+area 269
+iscrowd 1
+keypoints [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+coco_url http://mscoco.org/images/88225
+height 424
+width 640
+date_captured 2013-11-16 21:46:44
+bbox [87, 221, 18, 22]
+flickr_url http://farm4.staticflickr.com/3822/8994501286_f8280b46b5_z.jpg
+category_id 1

@@ -1,0 +1,13 @@
+segmentation [[54.02, 175.48, 59.15, 165.41, 58.46, 161.99, 62.22, 155.16, 66.15, 155.67, 66.15, 163.87, 64.27, 169.67, 65.97, 176.67]]
+num_keypoints 0
+license 4
+area 154.78205
+iscrowd 0
+keypoints [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+coco_url http://mscoco.org/images/43314
+height 376
+width 500
+date_captured 2013-11-20 04:19:27
+bbox [54.02, 155.16, 12.13, 21.51]
+flickr_url http://farm3.staticflickr.com/2740/4393014030_48bc86c4f8_z.jpg
+category_id 1

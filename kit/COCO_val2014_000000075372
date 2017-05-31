@@ -1,0 +1,13 @@
+segmentation [[1.72, 180.11, 40.58, 228.68, 62.92, 303.48, 73.61, 385.08, 60.98, 458.91, 54.18, 477.36, 1.72, 477.36]]
+num_keypoints 0
+license 1
+area 15988.05035
+iscrowd 0
+keypoints [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+coco_url http://mscoco.org/images/75372
+height 480
+width 640
+date_captured 2013-11-16 18:16:45
+bbox [1.72, 180.11, 71.89, 297.25]
+flickr_url http://farm6.staticflickr.com/5214/5461705276_97eeb68b14_z.jpg
+category_id 1

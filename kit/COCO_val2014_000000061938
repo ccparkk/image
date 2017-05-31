@@ -1,0 +1,13 @@
+segmentation [[314.22, 334.31, 310.4, 335.33, 308.87, 339.41, 310.14, 344.51, 305.8, 348.85, 306.82, 355.23, 315.5, 351.91, 315.5, 334.31]]
+num_keypoints 0
+license 4
+area 134.6611
+iscrowd 0
+keypoints [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+coco_url http://mscoco.org/images/61938
+height 640
+width 427
+date_captured 2013-11-16 19:30:49
+bbox [305.8, 334.31, 9.7, 20.92]
+flickr_url http://farm8.staticflickr.com/7428/9952990185_bed38813d6_z.jpg
+category_id 1
